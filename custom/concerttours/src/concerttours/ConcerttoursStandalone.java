@@ -28,6 +28,7 @@ public class ConcerttoursStandalone
 	public static void main(final String[] args)
 	{
 		new ConcerttoursStandalone().run();
+		
 	}
 
 	public void run()
